@@ -38,6 +38,6 @@
       "user": "root",
       "password": "DEFAULT",
       "database": "DEFAULT",
-      "debug": false
+      "debug": true
     }
 }
